@@ -104,4 +104,4 @@ npm install @coral-xyz/anchor
 - [Solana Docs](https://docs.solana.com/)
 - [Anchor Book](https://book.anchor-lang.com/)
 - [Solana Explorer (Devnet)](https://explorer.solana.com/?cluster=devnet)
-<!-- updated: 2024-09-28-r01 -->
+<!-- updated: 2025-01-25-r01 -->
