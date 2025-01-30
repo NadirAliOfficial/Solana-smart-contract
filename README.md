@@ -105,5 +105,3 @@ npm install @coral-xyz/anchor
 - [Anchor Book](https://book.anchor-lang.com/)
 - [Solana Explorer (Devnet)](https://explorer.solana.com/?cluster=devnet)
 <!-- updated: 2025-12-18-r01 -->
-
-
